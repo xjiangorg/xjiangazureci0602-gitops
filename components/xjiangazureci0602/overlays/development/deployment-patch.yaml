@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/shared-public:azure-56cfc6f72c409e1b8359afdaee8cf96b632f2f3e
+        - image: quay.io/quay_xjiang/shared-public:azure-7237e69a70ba18c117814c2c1c68a8ad9d68e563
           name: container-image
